@@ -11,6 +11,9 @@ I'm a highly experienced and results-driven IT professional with over 10 years i
 
 ## 💼 Experience Highlights
 
+- **Support Engineer**
+  I provide comprehensive technical support for a wide range of IT infrastructure—including networking, cloud services, and hardware—for small to mid-sized businesses.
+
 - **Systems Administration & Site Support**  
   Led critical system upgrades and managed large-scale deployments (390+ devices) at Franciscan Health, achieving a remarkably low 1% post-deployment ticket rate through meticulous device configuration and user training.
 
@@ -40,7 +43,7 @@ I'm a highly experienced and results-driven IT professional with over 10 years i
 
 ## 🚀 What I'm Working On
 
-- Pursuing new opportunities in Systems Administration  
+- Pursuing training, knowledge, and certification in cybersecurity 
 - Exploring automation with PowerShell  
 - Learning advanced virtualization and cloud technologies
 
